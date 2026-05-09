@@ -8,7 +8,7 @@
       "version": "1.0.0",
       "author": "jeffthor10",
       "category": "Export",
-      "download_url": "https://github.com/jeffthor10/affinity-scripts/blob/3cf48e5f4f56ad543a68c5ee498d8e67f8ff0247/scripts/export-dds-bc3-dxt5.js"
+      "download_url": "https://raw.githubusercontent.com/jeffthor10/affinity-scripts/main/scripts/export-dds-bc3-dxt5.js"
     }
     {
       "name": "Export DDS (TS4 Normal Map)",
@@ -16,7 +16,7 @@
       "version": "1.0.0",
       "author": "jeffthor10",
       "category": "Export",
-      "download_url": "https://github.com/jeffthor10/affinity-scripts/blob/3cf48e5f4f56ad543a68c5ee498d8e67f8ff0247/scripts/export-ts4-normal-map-dds.js"
+      "download_url": "https://raw.githubusercontent.com/jeffthor10/affinity-scripts/main/scripts/export-ts4-normal-map-dds.js"
     }
   ]
 }
