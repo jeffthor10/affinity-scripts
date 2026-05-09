@@ -1,0 +1,22 @@
+{
+  "Affinity Scripts - KingJeffrey - @jeffthor10", 
+  "last_updated": "05-08-2026",
+  "scripts": [
+    {
+      "name": "Export DDS",
+      "description": "Exports the current Affinity document as a DDS file with BC3/DXT5 compression and auto-generated mipmaps.",
+      "version": "1.0.0",
+      "author": "jeffthor10",
+      "category": "Export",
+      "download_url": "https://github.com/jeffthor10/affinity-scripts/blob/3cf48e5f4f56ad543a68c5ee498d8e67f8ff0247/scripts/export-dds-bc3-dxt5.js"
+    }
+    {
+      "name": "Export DDS (TS4 Normal Map)",
+      "description": "Exports the current Affinity document as a DDS normal map file using BC3/DXT5 compression, auto-generated mipmaps, and channel conversions (R->A, G->B, G->R) for use with TS4 CC objects.",
+      "version": "1.0.0",
+      "author": "jeffthor10",
+      "category": "Export",
+      "download_url": "https://github.com/jeffthor10/affinity-scripts/blob/3cf48e5f4f56ad543a68c5ee498d8e67f8ff0247/scripts/export-ts4-normal-map-dds.js"
+    }
+  ]
+}
